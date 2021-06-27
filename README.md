@@ -1,4 +1,4 @@
-# planetpay
+# PlanetPay playground
 
 ## Version 1
 
@@ -26,6 +26,8 @@ begins with only the safemoon collected from the Liquidity fee. The contract
 has no external source of BNB. The net result is an addition of only safemoon 
 to the pool. This is bad. This breaks the Constant Product which is used to 
 determine the price. This lowers the price of Safemoon.
+
+[Read more](https://notsafemoon.com/new/public/docs/MoonCoinsTA.pdf)
 
 ## Swap
 
