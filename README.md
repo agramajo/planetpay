@@ -4,9 +4,13 @@
 
 PlanetPayG based on examples/safetoken.sol
 
+[contact testnet](https://testnet.bscscan.com/address/0x421614696fb86ea558bfdCbA09126C424a702Bba)
+
 ## Version 2 without LP
 
-PlanetPayF based on examples/NotSafeMoon.sol
+PlanetPayH based on examples/NotSafeMoon.sol
+
+[contract testnet](https://testnet.bscscan.com/address/0x1334D60497F13445f3E2Af6a637b08A66cEcb5Ac)
 
 TLDR
 
