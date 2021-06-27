@@ -27,3 +27,12 @@ has no external source of BNB. The net result is an addition of only safemoon
 to the pool. This is bad. This breaks the Constant Product which is used to 
 determine the price. This lowers the price of Safemoon.
 
+## Swap
+
+Both have some liquidity in [pancake testnet](https://pancake.kiemtienonline360.com/)
+
+## TODO
+
+* security review
+* if we decided to use LP add withdraw remain BNB function
+
